@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         WME Alertas por Región y Nivel (Dinámico)
-// @namespace    https://tusitio.com/
-// @version      0.3
+// @namespace    https://github.com/Brshk1/WME_CAP_script/
+// @version      2025.10.20.001
 // @description  Carga polígonos dinámicos por región y aplica color según nivel de alerta en Waze Map Editor
 // @author       José Daniel
 // @match        https://www.waze.com/*editor*
+// @match        https://www.waze.com/editor*
+// @match        https://beta.waze.com/*
+// @exclude      https://www.waze.com/*user/*editor/*
 // @grant        none
 // @license      MIT
 // ==/UserScript==
