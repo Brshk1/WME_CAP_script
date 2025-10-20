@@ -9,7 +9,7 @@
 // @match        https://beta.waze.com/*
 // @exclude      https://www.waze.com/*user/*editor/*
 // @grant        none
-// @license      MIT
+// @license      CC-by
 // ==/UserScript==
 
 (function() {
